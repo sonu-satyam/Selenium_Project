@@ -4,53 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3116c51f-e206-478b-a6e2-d17d38f7397d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SeleniumProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ajio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calender_Automate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capturing_name_google.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Count_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoWebShop/Add_To_Cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoWebShop/counting_no_of_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dropdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExplicitWait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExplicitWait2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FLipkart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Find_Links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frame_Work/Library1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frame_Work/Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frame_Work/Register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frame_Work/Vtiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MMT_GOA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NSE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOps_Practice/Banking_Shopping_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QSP_Practice/Register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sauce_Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Share_Prices_Capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shares_price_pair.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock_Price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V-Tiger/V-Tiger_Opportunities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V-Tiger/V_Tiger_opportunity2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V-Tiger/V_tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidateWeb_Scrapping2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Validate_WebScrapping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebScrapping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebScrapping03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_name_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium_mouse_actions.py" afterDir="false" />
+    <list default="true" id="3116c51f-e206-478b-a6e2-d17d38f7397d" name="Changes" comment="my selenium demo">
+      <change afterPath="$PROJECT_DIR$/Frame_Work/FLipkart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e4a1cd63-a970-4741-b17d-1fa8f83e6f9b" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -76,54 +35,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.Add_To_Cart.executor": "Run",
-    "Python.Ajio.executor": "Run",
-    "Python.Amazon.executor": "Run",
-    "Python.Banking_Class.executor": "Run",
-    "Python.Banking_Shopping_Class (1).executor": "Run",
-    "Python.Calender_Automate.executor": "Run",
-    "Python.Capturing_name_google.executor": "Run",
-    "Python.Count_words.executor": "Run",
-    "Python.Dropdown.executor": "Run",
-    "Python.ExplicitWait.executor": "Run",
-    "Python.ExplicitWait2.executor": "Run",
-    "Python.FLipkart.executor": "Run",
-    "Python.File1.executor": "Run",
-    "Python.Find_Links.executor": "Run",
-    "Python.Login.executor": "Run",
-    "Python.MMT_GOA.executor": "Run",
-    "Python.MakeMyTrip.executor": "Run",
-    "Python.Meesho.executor": "Run",
-    "Python.NSE.executor": "Run",
-    "Python.Project01.executor": "Run",
-    "Python.Py_Version.executor": "Run",
-    "Python.Register.executor": "Run",
-    "Python.Sauce_Demo.executor": "Run",
-    "Python.Share_Prices_Capture.executor": "Run",
-    "Python.Shares_price_pair.executor": "Run",
-    "Python.Stock_Price.executor": "Run",
-    "Python.V-Tiger_Opportunities.executor": "Run",
-    "Python.V_Tiger_opportunity2.executor": "Run",
-    "Python.V_tiger.executor": "Run",
-    "Python.ValidateWeb_Scrapping2.executor": "Run",
-    "Python.Validate_WebScrapping.executor": "Run",
-    "Python.Vtiger.executor": "Run",
-    "Python.WebScrapping.executor": "Run",
-    "Python.WebScrapping03.executor": "Run",
-    "Python.Youtube.executor": "Run",
-    "Python.counting_no_of_elements.executor": "Run",
-    "Python.my_name_count.executor": "Run",
-    "Python.python_links.executor": "Run",
-    "Python.selenium_mouse_actions.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Add_To_Cart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ajio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Amazon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Banking_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Banking_Shopping_Class (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calender_Automate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Capturing_name_google.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExplicitWait.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExplicitWait2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FLipkart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.File1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find_Links.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MMT_GOA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeMyTrip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Meesho.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NSE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Project01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Py_Version.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Register.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sauce_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Share_Prices_Capture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Shares_price_pair.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stock_Price.executor&quot;: &quot;Run&quot;,
+    &quot;Python.V-Tiger_Opportunities.executor&quot;: &quot;Run&quot;,
+    &quot;Python.V_Tiger_opportunity2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.V_tiger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ValidateWeb_Scrapping2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Validate_WebScrapping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vtiger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WebScrapping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WebScrapping03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Youtube.executor&quot;: &quot;Run&quot;,
+    &quot;Python.counting_no_of_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_name_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_links.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_mouse_actions.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.27522936&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Vtiger">
     <configuration name="Banking_Shopping_Class (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject1" />
@@ -283,7 +243,31 @@
       <option name="presentableId" value="Default" />
       <updated>1723533958363</updated>
     </task>
+    <task id="LOCAL-00001" summary="my selenium demo">
+      <option name="closed" value="true" />
+      <created>1725428115296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725428115296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my selenium demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="my selenium demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
