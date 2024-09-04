@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3116c51f-e206-478b-a6e2-d17d38f7397d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SeleniumProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ajio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calender_Automate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capturing_name_google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Count_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoWebShop/Add_To_Cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoWebShop/counting_no_of_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExplicitWait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExplicitWait2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FLipkart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Find_Links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frame_Work/Library1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frame_Work/Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frame_Work/Register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frame_Work/Vtiger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MMT_GOA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NSE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOps_Practice/Banking_Shopping_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QSP_Practice/Register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sauce_Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Share_Prices_Capture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shares_price_pair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock_Price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V-Tiger/V-Tiger_Opportunities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V-Tiger/V_Tiger_opportunity2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V-Tiger/V_tiger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidateWeb_Scrapping2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validate_WebScrapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebScrapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebScrapping03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_name_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_mouse_actions.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kauMJ18F9yD4DbQRSd0H7RTKFQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Add_To_Cart.executor": "Run",
+    "Python.Ajio.executor": "Run",
+    "Python.Amazon.executor": "Run",
+    "Python.Banking_Class.executor": "Run",
+    "Python.Banking_Shopping_Class (1).executor": "Run",
+    "Python.Calender_Automate.executor": "Run",
+    "Python.Capturing_name_google.executor": "Run",
+    "Python.Count_words.executor": "Run",
+    "Python.Dropdown.executor": "Run",
+    "Python.ExplicitWait.executor": "Run",
+    "Python.ExplicitWait2.executor": "Run",
+    "Python.FLipkart.executor": "Run",
+    "Python.File1.executor": "Run",
+    "Python.Find_Links.executor": "Run",
+    "Python.Login.executor": "Run",
+    "Python.MMT_GOA.executor": "Run",
+    "Python.MakeMyTrip.executor": "Run",
+    "Python.Meesho.executor": "Run",
+    "Python.NSE.executor": "Run",
+    "Python.Project01.executor": "Run",
+    "Python.Py_Version.executor": "Run",
+    "Python.Register.executor": "Run",
+    "Python.Sauce_Demo.executor": "Run",
+    "Python.Share_Prices_Capture.executor": "Run",
+    "Python.Shares_price_pair.executor": "Run",
+    "Python.Stock_Price.executor": "Run",
+    "Python.V-Tiger_Opportunities.executor": "Run",
+    "Python.V_Tiger_opportunity2.executor": "Run",
+    "Python.V_tiger.executor": "Run",
+    "Python.ValidateWeb_Scrapping2.executor": "Run",
+    "Python.Validate_WebScrapping.executor": "Run",
+    "Python.Vtiger.executor": "Run",
+    "Python.WebScrapping.executor": "Run",
+    "Python.WebScrapping03.executor": "Run",
+    "Python.Youtube.executor": "Run",
+    "Python.counting_no_of_elements.executor": "Run",
+    "Python.my_name_count.executor": "Run",
+    "Python.python_links.executor": "Run",
+    "Python.selenium_mouse_actions.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.Vtiger">
+    <configuration name="Banking_Shopping_Class (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOps_Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOps_Practice/Banking_Shopping_Class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Banking_Shopping_Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOps_Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Rudra\PycharmProjects\SeleniumProject1\OOps_Practice\Banking_Shopping_Class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Frame_Work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frame_Work/Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Register" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Frame_Work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Rudra\PycharmProjects\SeleniumProject1\Frame_Work\Register.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Vtiger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Frame_Work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frame_Work/Vtiger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SeleniumProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Vtiger" />
+        <item itemvalue="Python.Login" />
+        <item itemvalue="Python.Register" />
+        <item itemvalue="Python.Banking_Shopping_Class (1)" />
+        <item itemvalue="Python.Banking_Shopping_Class" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3116c51f-e206-478b-a6e2-d17d38f7397d" name="Changes" comment="" />
+      <created>1723533958363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723533958363</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
