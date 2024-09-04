@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3116c51f-e206-478b-a6e2-d17d38f7397d" name="Changes" comment="my selenium demo">
-      <change afterPath="$PROJECT_DIR$/Frame_Work/FLipkart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3116c51f-e206-478b-a6e2-d17d38f7397d" name="Changes" comment="my selenium demo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +81,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.27522936&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Vtiger">
+  <component name="RunManager" selected="Python.FLipkart">
     <configuration name="Banking_Shopping_Class (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject1" />
       <option name="ENV_FILES" value="" />
@@ -107,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Banking_Shopping_Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FLipkart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOps_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Frame_Work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Rudra\PycharmProjects\SeleniumProject1\OOps_Practice\Banking_Shopping_Class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frame_Work/FLipkart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FLipkart" />
         <item itemvalue="Python.Vtiger" />
         <item itemvalue="Python.Login" />
         <item itemvalue="Python.Register" />
         <item itemvalue="Python.Banking_Shopping_Class (1)" />
-        <item itemvalue="Python.Banking_Shopping_Class" />
       </list>
     </recent_temporary>
   </component>
@@ -251,15 +248,50 @@
       <option name="project" value="LOCAL" />
       <updated>1725428115296</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="my selenium demo">
+      <option name="closed" value="true" />
+      <created>1725432395344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725432395344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
