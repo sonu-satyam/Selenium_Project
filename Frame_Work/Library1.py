@@ -20,8 +20,6 @@ def wait_class(cls):
             setattr(cls,key,_wait(value))
     return cls
 
-
-
 @wait_class
 class All_Operations:
 
@@ -56,7 +54,7 @@ class All_Operations:
         alert = self.driver.switch_to.alert
         alert.accept()
 
-
-
-
-
+    def mouse_hover(self,locator):
+        action = ActionChains(self.driver)
+        element = self.driver.find_element(*locator)
+        action.move_to_element(element).perform()
